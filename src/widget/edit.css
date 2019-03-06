@@ -1,0 +1,27 @@
+.edit {
+	background-color: #909090;
+	width: 50%;
+	height: calc(100vh - 45px);
+	float: left;
+}
+
+.edit-textarea {
+	position: relative;
+	width: calc(100% - 10px);
+	height: calc(100% - 60px);
+	margin: 0px;
+	padding: 5px;
+	border: none;
+	resize: none;
+	outline: none;
+	display: block;
+}
+
+.edit-div {
+	position: relative;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+}
+

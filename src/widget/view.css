@@ -1,0 +1,14 @@
+.view {
+    background-color: #909090;
+	width: 50%;
+	height: calc(100vh - 45px);
+    float: left;
+}
+
+.view-div {
+    position: relative;
+	width: calc(100% - 10px);
+	height: calc(100% - 60px);
+	margin: 0px;
+	padding: 5px;
+}

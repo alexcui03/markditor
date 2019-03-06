@@ -1,8 +1,3 @@
-/**
- * Markdowner - widget/titlebar.jsx
- * Title bar.
- */
-
 import React, { Component } from 'react';
 import './titlebar.css';
 
